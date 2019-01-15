@@ -1,0 +1,9 @@
+[package]
+
+name = "rust-learning"
+version = "0.0.1"
+authors = [ "linyows <linyows@gmail.com>" ]
+
+[dependencies]
+
+rand="0.3.0"
